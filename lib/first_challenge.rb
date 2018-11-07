@@ -9,7 +9,7 @@ def first_challenge
        {name: "Benvolio", age: "17", attitude: "worried"}
        {name: "Mercutio", age: "18", attitude: "hot-headed"}
        ]
-    }
+    },
     
     capulet: {
       patriarch: {name: "Lord Capulet", age: "50"},
