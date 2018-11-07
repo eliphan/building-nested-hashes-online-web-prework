@@ -5,10 +5,6 @@ def first_challenge
      matriarch: {},
      hero: {},
      hero_friend: []
-   }
-     
-     
-     
-     
+    }
    }
 end
